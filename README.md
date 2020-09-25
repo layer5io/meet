@@ -1,4 +1,6 @@
 # meet
+A repo for hosting meet.layer5.io redirects.
+
 - [meet.layer5.io/community](https://meet.layer5.io/community) - https://zoom.us/j/92211493668
 - [meet.layer5.io/meshery](https://meet.layer5.io/community) - https://zoom.us/j/94500620644
 - [meet.layer5.io/meshmap](https://meet.layer5.io/community) - https://zoom.us/s/96203889603
