@@ -2,7 +2,7 @@
 
 A repo for hosting meet.layer5.io redirects
 
-| Layer5 Meetings           | Meeting links (redirected)           | Zoom links (outdated)         |
+| Layer5 Meetings           | Meeting links                        | Zoom links                    |
 |---------------------------|--------------------------------------|-------------------------------|
 | Layer5 Community meeting  | https://meet.layer5.io/community     | https://zoom.us/j/92211493668 |   
 | Meshery Dev meeting       | https://meet.layer5.io/meshery       | https://zoom.us/j/94500620644 |   
