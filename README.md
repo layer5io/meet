@@ -10,3 +10,4 @@ A repo for hosting meet.layer5.io redirects
 | Layer5 Newcomers' meeting | https://meet.layer5.io/newcomers     | https://zoom.us/j/95863370241 |   
 | Layer5 Websites meeting   | https://meet.layer5.io/websites      | https://zoom.us/s/96393160667 |   
 | Meshery CI WG meeting     | https://meet.layer5.io/meshery-ci    | https://zoom.us/j/95648229301 |
+| WASM Filters meeting      | https://meet.layer5.io/wasm          | https://zoom.us/j/96726290619 |
