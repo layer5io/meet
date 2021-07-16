@@ -11,3 +11,5 @@ A repo for hosting meet.layer5.io redirects
 | Layer5 Websites meeting   | https://meet.layer5.io/websites      | https://zoom.us/s/96393160667 |   
 | Meshery CI WG meeting     | https://meet.layer5.io/meshery-ci    | https://zoom.us/j/95648229301 |
 | WASM Filters meeting      | https://meet.layer5.io/wasm          | https://zoom.us/j/96726290619 |
+| SMP Community Meeting     | https://meet.layer5.io/smp           | https://zoom.us/j/95676952262 |
+ 
