@@ -1,4 +1,4 @@
-# Layer5 Meets
+# Layer5 Community Meetings
 
 A repo for hosting meet.layer5.io redirects
 
