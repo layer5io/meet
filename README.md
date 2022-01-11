@@ -12,4 +12,4 @@ A repo for hosting meet.layer5.io redirects
 | Meshery Build and Release meeting | https://meet.layer5.io/meshery-release | https://zoom.us/j/95648229301 |
 | WASM Filters meeting              | https://meet.layer5.io/wasm            | https://zoom.us/j/96726290619 |
 | SMP Community meeting             | https://meet.layer5.io/smp             | https://zoom.us/j/95676952262 |
- 
+| Individual: Lee Calcote           | https://meet.layer5.io/lee-calcote     | https://zoom.us/j/7328601910  |
